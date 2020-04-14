@@ -1,5 +1,5 @@
 # os assignment
- multilevel queue
+ 
 Ques. 7. Design a scheduling program to implements a Queue with two levels:
 Level 1 : Fixed priority preemptive Scheduling
 Level 2 : Round Robin Scheduling
